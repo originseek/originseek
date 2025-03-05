@@ -1,7 +1,9 @@
 module.exports = {
     title: 'OriginSeek 文档',
     description: 'OriginSeek 最新官方文档翻译',
+    base: '/originseek/',
     themeConfig: {
+        subSidebar: 'auto',
         nav: [
             { text: '首页', link: '/' },
             { 
