@@ -1,0 +1,15 @@
+{
+  "name": "originseek",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/originseek/originseek.git",
+  "author": "originseek <luobotiantang@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
